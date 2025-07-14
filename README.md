@@ -1,4 +1,4 @@
-# flask_assignment
+
 # 📄 Assignment 3 – Flask + API + MongoDB Integration
 
 This project demonstrates two tasks using Flask:
@@ -62,11 +62,3 @@ assignment-flask/
 │   └── success.html           # Success message page
 ├── static/
 │   └── signup.jpg             # Background image
-[
-    {
-        "type": "command",
-        "details": {
-            "key": "markdown.showPreview"
-        }
-    }
-]
